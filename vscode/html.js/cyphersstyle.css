@@ -1,0 +1,72 @@
+.topwhite-nav
+{
+    height : 55px;
+    width : 2500px;
+    display : flex;
+    justify-content: space-between;
+    align-items : center;
+    margin : auto;
+    background-color:white;
+}
+
+.topblack-nav
+{
+    height : 80px;
+    width : 2500px;
+    display : flex;
+    justify-content: space-between;
+    align-items : center;
+    margin : auto;
+    background-color:rgb(36, 34, 34);
+}
+
+.main-nav
+{
+    position: absolute;
+    width : 500px;
+    height : 500px;
+    margin-top : 580px;
+}
+
+.main-logo
+{
+    content :url(https://resource.cyphers.co.kr/ui/img/comm/logo.png);
+    margin-left : 75px;
+    cursor : pointer;
+}
+
+.login-image
+{
+    content :url("images/loginimg.png");
+    cursor : pointer;
+}
+
+.gamestart-image
+{
+    content :url("images/gamestartimage.png");
+    margin-right : 1200px;
+    cursor : pointer;
+    margin-bottom : 4px;
+    margin-left : 10px;
+}
+.main-image
+{
+    content :url("images/mainimage.png");
+    cursor : pointer;
+}
+
+
+.top-mainmenu
+{
+    margin-left : 300px;
+    position: absolute;
+}
+
+.pont-mainmenu
+{
+    color : gray;
+    font-size : 20px;
+    padding : auto;
+    font-weight: bold;
+    text-decoration: none;
+}
